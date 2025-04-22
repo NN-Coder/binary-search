@@ -1,6 +1,6 @@
 #By NN-Coder on Github at https://github.com/NN-Coder/binary-search/.
 #Usable under MIT License; credit is due to me if the code is used.
-#Note that the code could be more efficient with slicing or recursion.
+#Note that the code could be more efficient with slicing or recursion. (Check main-recursive.py for more)
 #A simple input system could also be implemented to be more user-friendly.
 
 #starting variables; change the numbers inside of nums and find
